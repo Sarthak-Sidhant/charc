@@ -1,6 +1,6 @@
 import json
 import re
-from tkinter import Y
+
 
 #start-validation >>
 def start_game():
